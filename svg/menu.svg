@@ -3,9 +3,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="225px" height="225.334px" viewBox="0 0 225 225.334" enable-background="new 0 0 225 225.334" xml:space="preserve">
-<g>
-	<rect x="21.099" y="47.266" width="178.801" height="25"/>
-	<rect x="21.099" y="100.266" width="178.801" height="25"/>
-	<rect x="21.099" y="153.267" width="178.801" height="25"/>
-</g>
+<path d="M199.9,47.266v25H21.099v-25H199.9z M21.099,125.267H199.9v-25H21.099V125.267z M21.099,178.267H199.9v-25H21.099V178.267z"
+	/>
 </svg>
