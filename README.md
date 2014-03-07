@@ -3,7 +3,7 @@ Icomin
 
 Icomin is a minimal set of icons for general purpose. Includes both individual SVG's and icon font.
 
-![Icomin](http://f.cl.ly/items/2C1e111H0M3D3T3G1A1a/preview.jpg)
+![Icomin](http://cl.ly/image/3V383p2w2m0X/preview.jpg)
 
 ## From Icomoon build readme
 
